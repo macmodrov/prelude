@@ -1,4 +1,6 @@
+(setq desktop-restore-frames nil)
 (desktop-save-mode)
+
 (set-default 'truncate-lines t)
 (set-default 'standard-indent 2)
 
