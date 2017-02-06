@@ -5,7 +5,7 @@
 (set-default 'standard-indent 2)
 
 (setq dired-listing-switches "-aDlG")
-(setq grep-command "grep -nHIiR -e")
+(setq grep-command "grep -nHIiR -e ")
 
 (put 'upcase-region 'disabled nil)
 (put 'scroll-left 'disabled nil)
