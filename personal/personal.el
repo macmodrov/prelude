@@ -12,3 +12,5 @@
 (put 'downcase-region 'disabled nil)
 
 (setq prelude-auto-save nil)
+
+(prefer-coding-system 'utf-8)
