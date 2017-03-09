@@ -1,3 +1,3 @@
 (require 'clang-format)
 
-(global-set-key (kbd "C-S-I") 'clang-format-region)
+(global-set-key (kbd "<backtab>") 'clang-format-region)
